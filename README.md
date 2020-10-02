@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 #### 📫 How to reach me: shubhraduggal0307@gmail.com
 #### 😄 Pronouns: Her/She
