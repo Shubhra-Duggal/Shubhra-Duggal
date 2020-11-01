@@ -1,11 +1,11 @@
-### Hey there 👋
+### Hello there, I am Shubhra(preferrably Rah) 👋
 
-#### 📫 You can reach me at: shubhraduggal0307@gmail.com
-#### 🌈 I prefer the pronouns: Her/She
-####  ⚡ A fun fact about me is that: I prefer books over movies. I mostly read Mystery, Crime, Thriller, Historical Fiction, Fantasy books
-#### 🤓 My academic interests are: Cyber security, Administration, International Relations
-#### 👩🏻‍💻 I am currently working on: Cyber security, Computer networks
-#### ✨ I spend my liesure time: Reading, Singing, playing Lawn tennis
+#### 📫 You can reach me at shubhraduggal0307@gmail.com
+#### 🌈 I prefer the pronouns her/she.
+####  ⚡ A fun fact about me is that I prefer books over movies. I mostly read mystery, crime, thriller, historical fiction, fantasy books.
+#### 🤓 My academic interests are cyber security, administration, international relations.
+#### 👩🏻‍💻 I am currently working on cyber security, computer networks.
+#### ✨ I spend my liesure time reading, singing, playing lawn tennis.
 <!--
 **Shubhra-Duggal/Shubhra-Duggal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
