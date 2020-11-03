@@ -1,4 +1,4 @@
-### Hello there, I am Shubhra(preferrably Rah) 👋
+### Hello there, I am Shubhra(preferrably rah) 👋
 
 #### 📫 You can reach me at shubhraduggal0307@gmail.com
 #### 🌈 I prefer the pronouns her/she.
