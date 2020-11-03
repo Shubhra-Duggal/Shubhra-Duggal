@@ -3,8 +3,8 @@
 #### 📫 You can reach me at shubhraduggal0307@gmail.com
 #### 🌈 I prefer the pronouns her/she.
 ####  ⚡ A fun fact about me is that I prefer books over movies. I mostly read mystery, crime, thriller, historical fiction, fantasy books.
-#### 🤓 My academic interests are cyber security, administration, international relations.
-#### 👩🏻‍💻 I am currently working on cyber security, computer networks.
+#### 🤓 My academic interests are network security, administration, international relations.
+#### 👩🏻‍💻 I am currently working on computer networks, network security.
 #### ✨ I spend my leisure time reading, singing, playing lawn tennis.
 <!--
 **Shubhra-Duggal/Shubhra-Duggal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
