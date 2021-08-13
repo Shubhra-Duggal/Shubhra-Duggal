@@ -2,8 +2,8 @@
 
 #### 📫 You can reach me at shubhraduggal0307@gmail.com
 #### 🌈 I prefer the pronouns her/she.
-####  ⚡ A fun fact about me is that I prefer books over movies. I mostly read mystery, crime, thriller, historical fiction, fantasy books.
-#### 🤓 My academic interests are network security, administration, international relations.
+####  ⚡ I prefer books over movies. I mostly read mystery, crime, thriller, historical fiction, fantasy books.
+#### 🤓 My academic interests are Networking, Math, History and International Relations.
 #### ✨ I spend my leisure time reading, singing, playing lawn tennis.
 #### 👼🏼 I was born and brought up in Chandigarh.
 
